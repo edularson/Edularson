@@ -12,6 +12,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>  
 
+<p align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBzbndidmZyaWw3NWt6dWEweG50cnpobXN4bjdxYzRmcGxqNDZlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ih7T4K2qBghhPr58Dd/giphy.gif" width="200">
+</p>
+
 ---
 
 ### 📊 Estatísticas do GitHub  
