@@ -10,11 +10,11 @@ Atuo em um piloto de inteligência de mercado na Santa Maria, no desenvolvimento
 
 | Projeto | Aplicação | Tecnologias |
 | --- | --- | --- |
+| [TCC de análise de futebol](https://github.com/edularson/TCC-EduardoLarson) | Pipeline de análise de finalizações e xG, com código, resultados e demonstração em vídeo | Python, PyTorch, YOLOv8, OpenCV |
 | [Jornada Solar](https://github.com/edularson/JogoSistemaSolar) | Jogo educacional 3D de exploração espacial, desenvolvido em equipe | Python, Panda3D |
 | [API de vendas](https://github.com/edularson/DSW-Projeto-API) | Gerenciamento de produtos, clientes e pedidos, com autenticação | TypeScript, Node.js, Express, TypeORM, PostgreSQL |
 | [Seleções e jogadores](https://github.com/edularson/DSW-Selecoes-Jogadores) | Aplicação web para gerenciar seleções e jogadores | TypeScript, Angular, Node.js |
 | [Pipeline de dados de saúde](https://github.com/edularson/CienciaDeDados/tree/main/Trabalho2) | Coleta, tratamento, análise e armazenamento de dados públicos | Python, pandas, Matplotlib, SQLite |
-| [TCC de análise de futebol](https://github.com/edularson/TCC-EduardoLarson) | Visão computacional para análise de finalizações e xG; apresentação do projeto | Python, PyTorch, YOLOv8, OpenCV |
 
 Os demais repositórios incluem exercícios e trabalhos acadêmicos de programação, dados, computação gráfica e sistemas.
 
