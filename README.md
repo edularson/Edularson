@@ -1,150 +1,35 @@
-<!-- Header animado -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Eduardo%20Larson&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Data%20Scientist%20%7C%20Sport%20Analytics&descAlignY=55&descSize=18&descColor=a8b2d8" />
-</div>
+# Eduardo Larson
 
-<!-- Badges de contato -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-larson-103b2224b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eduardolarson05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:57023140001@unicentro.edu.br">
-    <img src="https://img.shields.io/badge/UNICENTRO-003087?style=for-the-badge&logo=academia&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=edularson&style=for-the-badge&color=e94560" />
-</div>
+Desenvolvimento de software, dados e inteligência artificial aplicada.
 
-<br/>
+Sou graduando em Ciência da Computação pela UNICENTRO, com conclusão prevista para dezembro de 2026. Trabalho com Python, automação de coleta e classificação de dados, visão computacional e desenvolvimento web. Tenho interesse especial em aplicações de tecnologia ao futebol.
 
----
+Atuo em um piloto de inteligência de mercado na Santa Maria, no desenvolvimento do eCenut pela Fábrica de Software da universidade e em atividades de pesquisa e treinamento no PET Saúde.
 
-## Sobre mim / About me
+## Projetos em destaque
 
-<table>
-<tr>
-<td width="55%">
+| Projeto | Aplicação | Tecnologias |
+| --- | --- | --- |
+| [Jornada Solar](https://github.com/edularson/JogoSistemaSolar) | Jogo educacional 3D de exploração espacial, desenvolvido em equipe | Python, Panda3D |
+| [API de vendas](https://github.com/edularson/DSW-Projeto-API) | Gerenciamento de produtos, clientes e pedidos, com autenticação | TypeScript, Node.js, Express, TypeORM, PostgreSQL |
+| [Seleções e jogadores](https://github.com/edularson/DSW-Selecoes-Jogadores) | Aplicação web para gerenciar seleções e jogadores | TypeScript, Angular, Node.js |
+| [Pipeline de dados de saúde](https://github.com/edularson/CienciaDeDados/tree/main/Trabalho2) | Coleta, tratamento, análise e armazenamento de dados públicos | Python, pandas, Matplotlib, SQLite |
+| [TCC de análise de futebol](https://github.com/edularson/TCC-EduardoLarson) | Visão computacional para análise de finalizações e xG; apresentação do projeto | Python, PyTorch, YOLOv8, OpenCV |
 
-🇧🇷 **Português**
+Os demais repositórios incluem exercícios e trabalhos acadêmicos de programação, dados, computação gráfica e sistemas.
 
-Olá! Sou **Eduardo Larson**, estudante de Ciência da Computação na UNICENTRO. Apaixonado por tecnologia, dados e esporte, combino desenvolvimento de software com análise de dados e sport analytics. Tenho experiência em front-end, back-end, ciência de dados e visão computacional aplicada ao futebol.
+## Competências
 
-- Estudante de Ciência da Computação — UNICENTRO
-- Sport Analytics & Deep Learning aplicado ao futebol
-- TCC: Reconhecimento de eventos e modelagem de xG com Deep Learning
-- Sempre aprendendo algo novo
+- **Dados e IA:** Python, PyTorch, OpenCV, YOLOv8, pandas, web scraping e pipelines de dados.
+- **Desenvolvimento web:** JavaScript, TypeScript, PHP, Laravel, Node.js, Express e Angular.
+- **Bancos de dados:** SQL, MySQL, PostgreSQL e SQLite.
+- **Colaboração:** Git, GitHub, levantamento de requisitos e comunicação técnica.
 
-</td>
-<td width="45%">
+## Contato
 
-🇺🇸 **English**
-
-Hi! I'm **Eduardo Larson**, a Computer Science student at UNICENTRO. Passionate about technology, data, and sports — I combine software development with data science and sport analytics. My experience spans front-end, back-end, data science, and computer vision applied to football.
-
-- CS Student — UNICENTRO
-- Sport Analytics & Deep Learning for football
-- Thesis: Event detection & xG modeling with Deep Learning
-- Always learning something new
-
-</td>
-</tr>
-</table>
+- [E-mail](mailto:eduardolarson05@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/eduardo-larson-103b2224b/)
 
 ---
 
-## Stack de Tecnologias / Tech Stack
-
-<div align="center">
-
-**Linguagens / Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Ferramentas / Frameworks & Tools**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Dados & Analytics / Data & Analytics**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edularson&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edularson&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edularson&theme=midnight-purple&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=a8b2d8&sideLabels=a8b2d8&currStreakNum=ffffff&sideNums=ffffff&dates=a8b2d8" />
-</div>
-
----
-
-## Projetos em Destaque / Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### TCC — xG Deep Learning
-[![Repo](https://img.shields.io/badge/Repositório-e94560?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edularson)
-
-Análise tática de partidas de futebol com Deep Learning. Reconhecimento automático de eventos de finalização e modelagem de **Expected Goals (xG)** usando visão computacional.
-
-`Python` `Deep Learning` `OpenCV` `Sport Analytics`
-
-</td>
-
-<td width="33%" align="center">
-
-### Jornada Solar
-[![Repo](https://img.shields.io/badge/Repositório-e94560?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/edularson](https://github.com/edularson/JogoSistemaSolar))
-
-Jogo interativo do sistema solar desenvolvido em Python como trabalho de Computação Gráfica. Simulação visual dos planetas com física e animações.
-
-`Python` `Computação Gráfica` `Pygame`
-
-</td>
-
-<td width="33%" align="center">
-
-### Almosted
-[![Repo](https://img.shields.io/badge/Repositório-e94560?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/edularson](https://github.com/edularson/Almosted))
-
-Loja de roupas virtual desenvolvida como projeto de Interação Humano-Computador, com foco em usabilidade, UX e experiência do usuário.
-
-`JavaScript` `IHC` `UX/UI`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&fontColor=e94560" />
-</div>
+Computer Science undergraduate at UNICENTRO, Brazil. I work with software development, data pipelines and computer vision, with a particular interest in football analytics. Explore the projects above for source code and project documentation.
